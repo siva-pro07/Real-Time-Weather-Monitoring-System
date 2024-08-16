@@ -1,6 +1,3 @@
-Here's a README template for your weather monitoring project:
-
----
 
 # Real-Time Weather Monitoring System
 
@@ -55,7 +52,7 @@ This project is a real-time data processing system designed to monitor weather c
    Update the `API_KEY` variable in `main.py` with your OpenWeatherMap API key.
 
    ```python
-   API_KEY = 'your_openweathermap_api_key'
+   API_KEY = 'cbebc392610c2fb05e60e28609166f53'
    ```
 
 ### Usage
