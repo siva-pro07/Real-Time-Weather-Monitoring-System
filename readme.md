@@ -26,7 +26,7 @@ This project is a real-time data processing system designed to monitor weather c
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-monitoring-system.git
+   git clone https://github.com/siva-pro07/Real-Time-Weather-Monitoring-System.git
    cd weather-monitoring-system
    ```
 
